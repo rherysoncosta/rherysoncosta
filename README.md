@@ -15,7 +15,3 @@ I'm a **Mobile Engineering** Student passionate about creating innovative mobile
 Here are some certificates I have:
 
 - **[Meta Android Developer Professional Certificate]**: This certificate taught me the main Android programming languages and frameworks used to build apps like Facebook and Instagram, and how to build your own Android app.
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rherysoncosta&show_icons=true&theme=radical)
